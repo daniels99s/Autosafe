@@ -6,3 +6,5 @@ const spareParts ={
         },
     ],
 }
+
+export default spareParts;

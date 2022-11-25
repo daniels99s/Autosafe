@@ -17,3 +17,5 @@ const wheel = {
         },
     ],
 }
+
+export default wheels;
