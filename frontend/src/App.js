@@ -11,7 +11,8 @@ function App() {
       <main>
         <h1>Banner</h1>
         {
-          spareParts.products.map(products => (<div key={products.slug}>
+          spareParts.products.map(products => (
+          <div className="product" key={products.slug}>
             <img src={products.image} alt={products.name}/> 
             <p>{products.name}</p>
           </div>))
