@@ -18,4 +18,4 @@ const wheel = {
     ],
 }
 
-export default wheels;
+export default wheel;
