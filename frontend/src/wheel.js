@@ -5,7 +5,7 @@ const wheel = {
                 name: 'Michelin',
                 description:'Wheel 25in',
                 richDescription:'',
-                image:'',
+                image:'/ima_spa/Llanta1',
                 images:'',
                 brand:'',
                 price:'',
