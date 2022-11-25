@@ -4,7 +4,7 @@ import spareParts from './spareParts';
 
 function App() {
   return (
-    <div className="Banner">
+    <div className="banner">
       <header>
         <a href="/">AutoSafe</a>
       </header>

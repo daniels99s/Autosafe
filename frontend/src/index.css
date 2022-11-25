@@ -17,7 +17,6 @@ code {
 .products {
   display: flex;
 }
-
 .product{
   border : 1px #404040 solid;
 }
