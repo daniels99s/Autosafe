@@ -1,12 +1,12 @@
-import spareParts from "../spareParts"
+import wheels from "../wheel"
 function HomeScreen(){
     return <div>
-         <h1>Banner</h1>
+        <h1>Banner</h1>
         <div className="products">
-        {spareParts.products.map(products => (
-          <div className="product" key={products.slug}>
-            <img src={products.image} alt={products.name}/> 
-            <p>{products.name}</p>
+        {wheels.product.map(product => (
+          <div className="product" key={product.slug}>
+            <img src={product.image} alt={product.name}/> 
+            <p>{product.name}</p>
           </div>))}
         </div>
     </div>
