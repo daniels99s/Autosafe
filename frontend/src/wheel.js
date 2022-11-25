@@ -1,5 +1,5 @@
 const wheel = {
-    products: [
+    wheels: [
         {
                 products: 'Wheel Michelin ',
                 name: 'Michelin',

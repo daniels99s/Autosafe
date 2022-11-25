@@ -2,15 +2,15 @@ const spareParts ={
     products: [
         {
             name:'Gears',
-            image:'/ima_spa/Motor1.jpg',
+            image:'./ima_spa/motor1.jpg',
         },
         {
             name:'Wheels',
-            image:'/ima_spa/Llanta1.jpg',
+            image:'./ima_spa/llanta1.jpg',
         },
         {
             name:'Suspensions',
-            image:'/ima_spa/suspension1.jpg',
+            image:'./ima_spa/suspension1.jpg',
         },
         {
             name:'Transmision',
