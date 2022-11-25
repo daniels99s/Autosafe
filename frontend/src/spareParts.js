@@ -1,7 +1,19 @@
 const spareParts ={ 
     products: [
         {
-            name:'',
+            name:'Gears',
+            image:'',
+        },
+        {
+            name:'Wheels',
+            image:'',
+        },
+        {
+            name:'Suspensions',
+            image:'',
+        },
+        {
+            name:'Transmision',
             image:'',
         },
     ],
